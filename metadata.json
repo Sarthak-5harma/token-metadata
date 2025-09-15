@@ -1,0 +1,13 @@
+{
+  "name": "FauxCoin",
+  "symbol": "FAUX",
+  "description": "My custom SPL token for testing on devnet",
+  "image": "https://raw.githubusercontent.com/Sarthak-5harma/token-metadata/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Sarthak-5harma/token-metadata/main/logo.png", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
