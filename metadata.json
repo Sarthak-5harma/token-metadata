@@ -1,7 +1,7 @@
 {
   "name": "FauxCoin",
   "symbol": "FAUX",
-  "description": "My custom SPL token for testing on devnet",
+  "description": "Twine's 18 decimal FauxCoin on Solana",
   "image": "https://raw.githubusercontent.com/Sarthak-5harma/token-metadata/main/logo.png",
   "attributes": [],
   "properties": {
